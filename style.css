@@ -171,9 +171,6 @@ nav {
         transform: translate(50%, 100%);
         justify-content: space-evenly;
     }
-    /* .cover img{
-        /* height: 80%; */
-    } */
     .small-circle,.medium-circle,.big-circle{
         opacity: 0.2;
     }
